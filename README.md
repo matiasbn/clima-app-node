@@ -10,6 +10,6 @@ Obtener temperatura de una ciudad en grados celsius mediante una API.
 
 Un ejemplo:
 
-```node app -d "hong kong"````
+```node app -d "hong kong"```
 
 El parámetro -d indica la ciudad desde donde se desea obtener la temperatura
