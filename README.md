@@ -2,7 +2,7 @@
 
 Obtener temperatura de una ciudad en grados celsius mediante una API.
 
-###Instalación
+### Instalación
 
 ```npm install```
 
